@@ -29,8 +29,8 @@ module.exports = {
       name: '@electron-forge/publisher-github',
       config: {
         repository: {
-          owner: 'me11',
-          name: 'awesome-thing'
+          owner: 'Maisie121',
+          name: 'automatic-octo-tribble'
         },
         prerelease: true
       }
